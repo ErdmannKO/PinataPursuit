@@ -8,5 +8,5 @@ Claire Cunningham
 Kevin Erdmann~
 Chris Gifford
 Sam Kemp
-Craig Reuss
+Craig Reuss*
 Thai Yang
